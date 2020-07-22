@@ -1,5 +1,5 @@
 # Exploring Weather Trends
-## Extracting Data from a Databse using SQL to Compare Local and Global Temperature Trends
+## Extracting Data from a Database using SQL to Compare Local and Global Temperature Trends
 In this project, weather trends in Austin, TX were analyzed and compared to global temperature changes. The goals of this project included: extracting data from a databse using SQL, creating a line chart with local and global temperatures, and making observations based on trends.
 
 ## Datasets
